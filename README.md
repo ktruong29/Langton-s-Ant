@@ -24,4 +24,4 @@ as follows:
 
 ## Instruction on how to run the program
 ---
-$firefox index.html
+```$firefox index.html```
